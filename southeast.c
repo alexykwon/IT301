@@ -13,5 +13,5 @@ int main()
 	go_south_east(&latitude, &longitude);
 	printf("Avast! now at: [%i, %i]\n", latitude, longitude);
 	return 0;
-
+ 
 }
